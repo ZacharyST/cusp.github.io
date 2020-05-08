@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "CUSP"
   avatar           : "data.jpeg"
-  bio              : ""
+  bio              : "Interesting questions, fun data."
   location         : "Los Angeles, CA"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            : "zst@luskin.ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
