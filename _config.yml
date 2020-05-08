@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CUPA"
+title                    : "CUSP"
 title_separator          : "-"
 name                     : &name "Zachary C. Steinert-Threlkeld"
 description              : &description "Computional Understanding of Social Processes"
