@@ -10,7 +10,4 @@ main:
     url: /members/    
     
   - title: "Events"
-    url: /portfolio/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /events/
