@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "CUPA"
 title_separator          : "-"
 name                     : &name "Zachary C. Steinert-Threlkeld"
-description              : &description "Computional Understanding of Political Affairs"
+description              : &description "Computional Understanding of Social Processes"
 url                      : https://zacharyst.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZacharyST/zacharyst.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "CUSP"
   avatar           : "data.jpeg"
   bio              : ""
   location         : "Los Angeles, CA"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ZacharyST"
   vine             :
   weibo            :
   xing             :
