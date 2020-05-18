@@ -3,9 +3,9 @@ title: "Members"
 author_profile: true
 permalink: /members/
 redirect_from: 
-  - /members/
-  - /members.md
+  - /members
 ---
+
 
 **Zachary Caleb Steinert-Threlkeld** is an Assistant Professor of Public Policy at the [Luskin School of Public Affairs](https://luskin.ucla.edu/).  [His research](https://zacharyst.com/) develops theories about the dynamics of contentious politics and tests them with computational methodologies.  He has studied protest waves in the Middle East and North Africa, Ukraine, Venezuela, the United States, and Uganda.  
 
