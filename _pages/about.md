@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "What We Do"
 excerpt: "About CUSP"
 author_profile: true
