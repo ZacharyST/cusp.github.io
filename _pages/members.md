@@ -1,7 +1,7 @@
 ---
-permalink: /
 title: "Members"
 author_profile: true
+permalink: /members/
 redirect_from: 
   - /members/
   - /members.md
