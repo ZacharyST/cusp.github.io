@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /events
 title: "Events"
 author_profile: true
 redirect_from: 
